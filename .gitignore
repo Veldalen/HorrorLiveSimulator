@@ -1,0 +1,12 @@
+# Ignore everything
+/*
+/*/
+
+# Inverse ignore some stuff
+!/Assets/
+#But ignore Assets/GitIgnoreFolder
+/Assets/GitIgnoreFolder
+!/ProjectSettings/
+!/Packages/
+!.gitignore
+!icon.png
